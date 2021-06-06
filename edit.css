@@ -1,0 +1,308 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+   
+.color1
+{   
+    color: 287be7e7;
+}
+.background
+{
+    background-image: url("48078.jpg");
+    background-size: cover;
+    height: 100%;
+    opacity: 1;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    
+}
+#custom-nav {
+
+    box-shadow:        6px 6px 6px 6px rgba(237, 237, 237, 0.377); 
+}
+.whiteback
+{
+    background-color: rgba(0, 0, 0, 0.514);
+    
+    z-index: 999;
+}
+.p3 {
+    font-family: "lucida handwriting" , Cursive;
+  }
+.fixnav
+{
+ padding-left: 35px;
+ padding-right: 0px;
+}
+.bg1
+{
+    background-image: url("WallpaperDog-5467670.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+    
+}
+.overlay
+{
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background:rgba(0, 0, 0, 0.856);
+}
+.c2
+{
+    color: white;
+}
+.box
+{
+    border: 1px solid rgba(26, 142, 219, 0.473);
+    padding: 50px 60px;
+    margin-top: 20vh;
+    height: 500px;
+    -webkit-box-shadow: 0px 1px 63px 23px rgba(224,85,168,0.73);
+    -moz-box-shadow: 0px 1px 63px 23px rgba(224,85,168,0.73);
+    box-shadow: 0px 1px 63px 23px rgba(224,85,168,0.73);
+}
+.c3
+{
+    color: rgba(255, 255, 255, 0.74);
+}
+.textedit
+{   padding-top: 15px;
+    text-align: center;
+    font-style: italic;
+    font-family: "lucida handwriting" , Cursive;
+    
+}
+.mar
+{
+    margin-top: 30px;
+}
+.butc
+{   
+    border: 1px solid rgb(255, 255, 255);
+    padding: 16px 35px;
+    background-color: rgba(255, 255, 255, 0.123);
+    border-radius: 35px;
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+    
+}
+.c5
+{
+    text-shadow: 0 0 2px #ffffff31, 0 0 10px #ffffff6e;
+    padding-left: 10px;
+}
+.bg5
+{
+    background: #000000;
+    opacity: 0.8;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 100%;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    margin: 5%;
+}
+.overlay1
+{
+    background-color: rgba(0, 0, 0, 0.479);
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.cpad
+{
+padding: 6px 6px 6px 6px;
+}
+.checked {
+    color: orange;
+}
+.f3
+{
+    font-family: "Brush Script MT" , Cursive;
+}
+.span-or {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -2px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+  }
+  .hr-or {
+    background-color: #cdcdcd;
+    height: 1px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }
+footer.nb-footer {
+background: #222;
+border-top: 4px solid #d31f8e; }
+footer.nb-footer .about {
+margin: 0 auto;
+margin-top: 40px;
+max-width: 1170px;
+text-align: center; }
+footer.nb-footer .about p {
+font-size: 13px;
+color: #999;
+margin-top: 30px; }
+footer.nb-footer .about .social-media {
+margin-top: 15px; }
+footer.nb-footer .about .social-media ul li a {
+display: inline-block;
+width: 45px;
+height: 45px;
+line-height: 45px;
+border-radius: 50%;
+font-size: 16px;
+color: #fdfdfd;
+border: 1px solid rgba(255, 255, 255, 0.3); }
+footer.nb-footer .about .social-media ul li a:hover {
+background: #b8238b;
+color: #fff;
+border-color: #b78c33; }
+footer.nb-footer .footer-info-single {
+margin-top: 30px; }
+footer.nb-footer .footer-info-single .title {
+color: #aaa;
+text-transform: uppercase;
+font-size: 16px;
+border-left: 4px solid #ca2580;
+padding-left: 5px; }
+footer.nb-footer .footer-info-single ul li a {
+display: block;
+color: #aaa;
+padding: 2px 0; }
+footer.nb-footer .footer-info-single ul li a:hover {
+color: #ca2580; }
+footer.nb-footer .footer-info-single p {
+font-size: 13px;
+line-height: 20px;
+color: #aaa; }
+footer.nb-footer .copyright {
+margin-top: 15px;
+background: #111;
+padding: 7px 0;
+color: #999; }
+footer.nb-footer .copyright p {
+margin: 0;
+padding: 0; }
+ul#menu li {
+    display:inline;
+  }
+
+body{
+    background-color: #330b2c;
+    height: 77vh;
+    width: 100%;
+    margin-top: 8%;
+}
+/* .div1
+{
+border: 1px solid white;
+} */
+.bor2
+{
+    border: 3px solid rgba(216, 13, 138, 0.712);
+    padding: 50px 40px 60px 40px;
+    border-radius: 25px;
+    background-color:#250b20 ;
+    
+}
+div .text-light a:hover
+{
+    color: #b8238b;
+}
+.co
+{
+    color: rgb(116, 116, 116);
+    font-weight: 500;
+}
+.imgs
+{
+    right: 0px;
+}
+.h6
+{
+padding: 5px 5px 5px 5px;
+}
+.boc1
+{
+    border: 2px solid rgba(255, 255, 255, 0.651);
+    border-radius: 30px;
+    background-color: rgba(151, 40, 118, 0.596);
+    padding: 0px 5px 0px 5px;
+}
+.fi
+{
+padding-left: 5px;
+}
+.fi2
+{
+padding-right: 25px;
+}
+.bc{
+border: 1px solid rgba(219, 219, 219, 0.658);
+border-radius: 15px
+}
+
+#cf img {
+    animation-name: cf3FadeInOut;
+    animation-timing-function: ease-in-out;
+/* if you only want to cycle a finite amount of times, 
+   simply change 'infinite' with # of iterations you need */
+    animation-iteration-count: infinite; 
+    animation-duration: 3s;
+    animation-direction: alternate; /* not strictly necessary */
+    position:absolute;
+}
+
+#cf img:nth-of-type(1) {
+    animation-delay: 2s;
+}
+
+#cf img:nth-of-type(2) {
+    animation-delay: 3s;
+}
+
+#cf img:nth-of-type(3) {
+    /* add some delay for the first picture as well */
+    animation-delay: 1s;
+}
+
+@keyframes cf3FadeInOut {
+    /* distributing times evenly */
+    0% {
+        opacity: 1;
+    }
+    25% {
+        opacity: 0;
+    }
+    75% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.br1
+{   border: 1px solid white;
+    border-radius: 25px;;
+}
